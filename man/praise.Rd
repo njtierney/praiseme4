@@ -13,7 +13,7 @@ praise(name = "Vis")
 a nice message to user
 }
 \description{
-Delivers praise to the user
+This is an example piece of documentation.
 }
 \examples{
 praise(name = "Vis")
